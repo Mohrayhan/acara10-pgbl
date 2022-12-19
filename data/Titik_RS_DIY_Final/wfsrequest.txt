@@ -1,0 +1,1 @@
+http://geonode:80/geoserver/geonode/ows?access_token=None?service=WFS&version=1.0.0&request=GetFeature&typeName=geonode%3ATitik_RS_DIY_Final&access_token=None&maxFeatures=50&outputFormat=SHAPE-ZIP
